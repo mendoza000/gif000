@@ -1,0 +1,21 @@
+.card img{
+	max-width: 100%;
+	border-top-left-radius: 10px;
+	border-top-right-radius: 10px;
+}
+.card{
+	margin: 1em 1em;
+	-webkit-box-shadow: 0px 0px 15px -4px #000000; 
+	box-shadow: 0px 0px 15px -4px #000000;
+	padding-bottom: 1em;
+	border-radius: 10px;
+	max-width: 15em;
+}
+.card p{
+	margin-top: 0.5em;
+	padding: 0 1em;
+	max-width: 10em;
+	text-align: center;
+	margin-right: auto;
+	margin-left: auto;
+}
